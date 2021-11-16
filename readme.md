@@ -4,7 +4,7 @@ Find songs, artists and lyrics using the 'lyrics.ovh' API
 
 ## Live Preview
 
-https://milano-patel.github.io/lyrics-serach-app/
+https://milano-patel.github.io/lyrics-search-app/
 
 ## Project Specification
 
